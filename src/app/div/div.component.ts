@@ -29,7 +29,7 @@ export class DivComponent {
 
     // Buena praxis de llamar funciones
     ngOnInit() {
-        this.miFuncion();
+        //this.miFuncion();
     }
 
 

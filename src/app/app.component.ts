@@ -7,4 +7,16 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'test22';
+  public bandera:boolean;
+
+
+  constructor(){
+    this.bandera = true;
+  }
+
+  cambiarBoton(valor){
+    this.bandera = valor;
+  }
+
+
 }
