@@ -5,10 +5,13 @@ import { AppComponent } from './app.component';
 
 import { DivComponent } from './div/div.component';
 
+import { PersonComponent } from './person/person.component';
+
 @NgModule({
   declarations: [
     AppComponent,
-    DivComponent
+    DivComponent,
+    PersonComponent
   ],
   imports: [
     BrowserModule

@@ -1,0 +1,15 @@
+h1{
+    background: forestgreen;
+    size: 30px;
+    text-align: center;
+}
+
+p{
+    background: aquamarine;
+    text-align: center;
+}
+
+h2{
+    background: goldenrod;
+    text-align: center;
+}
